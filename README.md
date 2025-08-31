@@ -15,8 +15,8 @@ Tasks can be added, marked as complete (✔️ with strikethrough), and cleared 
 ---
 
 ## 📸 Demo  
-![To-Do List Demo](![todolist-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ce4df351-f68d-4e91-a28a-43ad994876dc)
-)
+![todolist-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ce4df351-f68d-4e91-a28a-43ad994876dc)
+
 
 ---
 
